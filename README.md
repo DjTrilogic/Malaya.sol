@@ -1,7 +1,7 @@
-# Malaya.sol
-Malaya contract
+# Octofut.sol
+Octofut contract
 
-Malaya protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from BEE with some added benefits. A proud fork from Safemoon.
+Octofut protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from BEE with some added benefits. A proud fork from Malaya.
 
 No DEV coins, no taking of any advantages from the rest.
 Like Safemoon, we utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 4 years.
