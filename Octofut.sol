@@ -12,7 +12,7 @@
    
    #LIQ+#RFI+#SHIB+#DOGE = #BEE
 
-   #Malaya features:
+   #Octofut features:
    3% fee auto add to the liquidity pool to locked forever when selling
    2% fee auto distribute to all holders
    I created a black hole so #Bee token will deflate itself in supply with every transaction
@@ -701,7 +701,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
 }
 
 
-contract Malaya is Context, IERC20, Ownable {
+contract Octofut is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
@@ -719,8 +719,8 @@ contract Malaya is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = "Malaya";
-    string private _symbol = "MLY";
+    string private _name = "Octofut";
+    string private _symbol = "OCTO";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 5;
